@@ -5,8 +5,10 @@ Proksi Gratis sudah di Tested Status (200)
 Update 8 - 12 Jam sekali
 
 -All Country
+
 -Update All time
 
+### Jumlah proxy Berubah sewaktu-waktu, kadang banyak kadang sedikit ###
 
 @ tambelang 2022
 @ Warung Bingung Crack
