@@ -12,6 +12,4 @@ Update 8 - 12 Jam sekali
 
 
 
-### BADAN TEKNOLOGI WARUNG BINGUNG ###
-
-### BTWB ###
+### --- BADAN TEKNOLOGI WARUNG BINGUNG --- ###
