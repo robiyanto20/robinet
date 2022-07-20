@@ -10,5 +10,5 @@ Update 8 - 12 Jam sekali
 
 ### Jumlah proxy Berubah sewaktu-waktu, kadang banyak kadang sedikit ###
 
-####@ tambelang 2022####
-####@ Warung Bingung Crack####
+(@ tambelang 2022)
+(@ Warung Bingung Crack)
