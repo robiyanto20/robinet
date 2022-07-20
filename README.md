@@ -1,4 +1,4 @@
-# mr.R0bI
+# mr.R0bi
 Proxy Rotasi All Time, All Type ( HTTP , HTTPS, SOCKS 4, SOCKS 5 )
 
 Proksi Gratis sudah di Tested Status (200)
