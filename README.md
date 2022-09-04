@@ -10,6 +10,9 @@ Update 8 - 12 Jam sekali
 
 -Checked 
 
+-Otomatis berubah lokasi
+
+
 ### Jumlah proxy Berubah sewaktu-waktu, kadang banyak kadang sedikit ###
 
 
